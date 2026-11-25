@@ -1,0 +1,9 @@
+{
+  "name": "ai-safety",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Safety — құрылыс алаңындағы қауіпсіздік көмекшісі (Gemini API)",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}

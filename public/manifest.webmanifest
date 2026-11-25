@@ -1,0 +1,16 @@
+{
+  "name": "AI Safety — құрылыс қауіпсіздігі",
+  "short_name": "AI Safety",
+  "description": "Құрылыс алаңындағы қауіпсіздік көмекшісі",
+  "lang": "kk",
+  "start_url": "./#surak",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#efede8",
+  "theme_color": "#f6c400",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
